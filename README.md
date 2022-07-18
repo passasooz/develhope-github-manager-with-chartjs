@@ -21,5 +21,7 @@ Enjoy it!
 
 ## ASSETS
 https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api
+
 https://docs.github.com/en/rest/repos/repos#get-a-repository
+
 https://www.chartjs.org/
